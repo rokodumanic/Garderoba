@@ -1,0 +1,92 @@
+{
+  "svaRoba": [
+    {
+      "kategorija": "T-Shirt",
+      "velicina": "M",
+      "boja": "blue",
+      "marka": "Gin&Tonic",
+      "slika": "sivaMaica.jpg",
+      "id": "95a3"
+    },
+    {
+      "id": "a9aa",
+      "kategorija": "Jaketa",
+      "velicina": "M",
+      "boja": "zeleno",
+      "marka": "esprit",
+      "slika": "jaketa.jpg"
+    },
+    {
+      "id": "bbbb",
+      "kategorija": "Tuta",
+      "velicina": "L",
+      "boja": "crno",
+      "marka": "adidas",
+      "slika": "tutaHlace.jpg"
+    },
+    {
+      "id": "340a",
+      "kategorija": "Hoodica",
+      "velicina": "L",
+      "boja": "crno",
+      "marka": "",
+      "slika": "hoodica.jpg"
+    },
+    {
+      "id": "92d9",
+      "kategorija": "Hoodica",
+      "velicina": "L",
+      "boja": "bordo",
+      "marka": "adidas",
+      "slika": "hoodicaAdidas.jpg"
+    },
+    {
+      "id": "1bb1",
+      "kategorija": "Kosulja",
+      "velicina": "L",
+      "boja": "bijelo",
+      "marka": "",
+      "slika": "kosulja1.jpg"
+    },
+    {
+      "id": "8756",
+      "kategorija": "Kosulja",
+      "velicina": "L",
+      "boja": "bijelo",
+      "marka": "",
+      "slika": "kosulja2.jpg"
+    },
+    {
+      "id": "acff",
+      "kategorija": "T-Shirt",
+      "velicina": "M",
+      "boja": "bordo",
+      "marka": "",
+      "slika": "maica2.jpg"
+    },
+    {
+      "id": "dc3d",
+      "kategorija": "T-Shirt",
+      "velicina": "M",
+      "boja": "plavo",
+      "marka": "",
+      "slika": "plavaMaica.jpg"
+    },
+    {
+      "id": "d8cd",
+      "kategorija": "Tuta",
+      "velicina": "M",
+      "boja": "zeleno",
+      "marka": "Nike",
+      "slika": "tutaHlace2.jpg"
+    },
+    {
+      "id": "a8a7",
+      "kategorija": "Hoodica",
+      "velicina": "M",
+      "boja": "zeleno",
+      "marka": "Nike",
+      "slika": "tutaHoodica.jpg"
+    }
+  ]
+}

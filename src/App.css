@@ -1,0 +1,88 @@
+
+.addRobaForm label, select{
+    margin: 0.25rem;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.addInput, 
+.addSelect{
+    margin: auto;
+    width: 85%;
+    min-width: 70%;
+    height: 1.8rem;
+    align-self: center;
+    text-align: center;
+
+}
+
+.addSelect option{
+    align-self: center;
+}
+
+.addSelect option:first-child {
+    /* Reset text alignment for the first option (placeholder) */
+    text-align: center;
+  }
+
+
+.appContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.dodajRobu{
+    min-width: fit-content;
+}
+
+.filterContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+}
+
+.filterInput{
+    margin: 0 0.3rem;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+}
+
+.headNaslov{
+    text-align: center;
+    margin-top: 1rem;
+}
+
+img{
+    width: 25px;
+    height: 25px;
+}
+
+.submitButton{
+    margin: 1rem;
+}
+
+.tablica{
+    border-collapse: collapse;
+}
+
+.tablica th, 
+.tablica td{
+    width: 20%;
+    text-align: center;
+    padding: 8px;
+    border: 1px solid #ddd;
+}
+
+.tableFilterContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-width: fit-content;
+}
